@@ -1,4 +1,4 @@
-#Conversational AI Model-ChatBot
+# Conversational AI Model-ChatBot
 
 This project showcases my work on building a sophisticated Conversational AI model as part of my Artificial Intelligence assignment. Leveraging the power of TensorFlow and the tflearn library, I employed Natural Language Processing and Neural Network concepts to construct an AI contextual chatbot.
 
